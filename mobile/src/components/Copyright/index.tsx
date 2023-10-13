@@ -7,7 +7,7 @@ export function Copyright() {
   return (
     <View>
       <Text style={styles.text}>
-        Feito pelo Silas, com auxílio da Rocketseat
+        slAndrade
       </Text>
     </View>
   );
